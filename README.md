@@ -1,3 +1,9 @@
+<h2 align="center">Cricket Scoreboard Tracker</h2>
+
+ 
+  <a href="https://harshjaiswal1302.github.io/Cricket_Scoreboard/"><strong>➥ Live Demo</strong></a>
+
+
 Cricket Scoreboard Tracker
 Overview
 The Cricket Scoreboard Tracker is a web application designed to track the progress of a cricket match, ball by ball, over by over. It allows users to input runs, wickets, and extras (such as wide balls and no balls) and keeps track of the score for both teams. The application can declare the winner at the end of the match.
